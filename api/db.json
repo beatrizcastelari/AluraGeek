@@ -1,0 +1,28 @@
+{
+  "produtos": [
+    {
+      "nome": "Oculos VR",
+      "valor": 300,
+      "imagem": "https://i.ibb.co/W5d9Nbt/2151138393.jpg",
+      "id": "2"
+    },
+    {
+      "nome": "Controle Game",
+      "valor": 1700,
+      "imagem": "https://i.ibb.co/25hXTG8/32105.jpg",
+      "id": "3"
+    },
+    {
+      "id": "f267",
+      "nome": "video game",
+      "valor": "5000",
+      "imagem": "https://i.ibb.co/25hXTG8/32105.jpg"
+    },
+    {
+      "id": "3542",
+      "nome": "Teclado Game",
+      "valor": "300",
+      "imagem": "https://i.ibb.co/D11cJq1/2149529367.jpg"
+    }
+  ]
+}
